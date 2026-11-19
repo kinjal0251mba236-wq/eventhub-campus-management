@@ -1,0 +1,6 @@
+{
+  "name": "EVENTHUB",
+  "description": "Campus Event Management System for students to discover and register for university events and for organizers to manage events and registrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
